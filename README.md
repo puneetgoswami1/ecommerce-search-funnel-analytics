@@ -18,7 +18,7 @@ Onsite search users convert at 2x–3x the rate of casual browsers, yet strict k
 ## How to Run
 
 ```bash
-git clone [https://github.com/puneetgoswami1/ecommerce-search-funnel-analytics.git]
+git clone https://github.com/puneetgoswami1/ecommerce-search-funnel-analytics.git
 cd ecommerce-search-funnel-analytics
 
 pip install -r requirements.txt
